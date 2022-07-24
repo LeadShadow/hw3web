@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "hw3web"
+version = "0.1.0"
+description = ""
+authors = ["OlexandrSamus <olexandr.samus.2004@gmail.com>"]
+packages = [
+    { include = "console_bot" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+colorama = "^0.4.5"
+setuptools = "^62.6.0"
+wcwidth = "^0.2.5"
+wheel = "^0.37.1"
+prompt_toolkit = "3.0.30"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+bot = "main:start"
