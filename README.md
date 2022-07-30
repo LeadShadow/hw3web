@@ -20,6 +20,6 @@
 ---
 ### Ліцензія
 
-[![GitHub](https://img.shields.io/github/license/LeadShadow/hw3web)](https://github.com/LeadShadow/hw3web/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/LeadShadow/hw4web)](https://github.com/LeadShadow/hw4web/blob/main/LICENSE)
 
 Цей проєкт ліцензується відповідно до ліцензії MIT — подробиці див. у файлі [LICENSE](https://github.com/LeadShadow/hw3web/blob/main/LICENSE) 
